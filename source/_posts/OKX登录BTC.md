@@ -3,6 +3,8 @@ title: OKX插件登录BTC
 abbrlink: 4c3e688d
 date: 2024-08-09 15:05:01
 tags: BTC
+cover: '/images/okx-banner.png'
+top_img: '/images/okx-banner.png'
 ---
 ### 由于BTC网络的登录并不像wallet connect EVM网络那样使用现成的包直接可以建立连接器只要你浏览器内部装有OKX插件就可以直接唤起并登录具体方法如下
 
